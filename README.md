@@ -1,1 +1,10 @@
 # email_count-v1.0
+
+English:
+The script is a Python program designed to analyze a text file containing email addresses and passwords. It uses the tkinter library to create a graphical file dialog to select the input file. After reading the file, it filters out the email addresses with passwords and displays various statistics, such as the total number of email:password pairs and the 30 most common email domains. It also provides options to save email addresses and passwords for a specific domain to a new file. The program runs in a loop, allowing the user to process multiple files or save email data for multiple domains.
+
+Spanish:
+El script es un programa Python diseñado para analizar un archivo de texto que contiene direcciones de correo electrónico y contraseñas. Utiliza la biblioteca tkinter para crear un cuadro de diálogo gráfico para seleccionar el archivo de entrada. Después de leer el archivo, filtra las direcciones de correo electrónico con contraseñas y muestra varias estadísticas, como el número total de pares de correo electrónico y contraseña y los 30 dominios de correo electrónico más comunes. También ofrece opciones para guardar direcciones de correo electrónico y contraseñas para un dominio específico en un nuevo archivo. El programa se ejecuta en un bucle, lo que permite al usuario procesar varios archivos o guardar datos de correo electrónico para varios dominios.
+
+Portuguese:
+O script é um programa Python projetado para analisar um arquivo de texto contendo endereços de e-mail e senhas. Ele usa a biblioteca tkinter para criar uma caixa de diálogo gráfica para selecionar o arquivo de entrada. Após ler o arquivo, ele filtra os endereços de e-mail com senhas e exibe várias estatísticas, como o número total de pares de e-mail e senha e os 30 domínios de e-mail mais comuns. Também oferece opções para salvar os endereços de e-mail e senhas de um domínio específico em um novo arquivo. O programa é executado em um loop, permitindo que o usuário processe vários arquivos ou salve dados de e-mail para vários domínios.
